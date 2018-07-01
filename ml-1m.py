@@ -143,30 +143,3 @@ precision=tp/(tp+fp)
 recall=tp/(tp+fn)
 #f1 measure= 2*(precision *recall)/(precision +recall)
 f1_measure=2*(precision *recall)/(precision +recall)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
